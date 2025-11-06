@@ -1,0 +1,1 @@
+SafePassword Generator es una aplicación diseñada para crear contraseñas seguras y personalizadas. Permite generar claves aleatorias con diferentes niveles de complejidad, incluyendo letras mayúsculas, minúsculas, números y símbolos. Su objetivo es ayudar a los usuarios a proteger sus cuentas y datos personales mediante contraseñas fuertes y difíciles de adivinar.
